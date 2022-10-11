@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music App</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="music.js" type="module" defer></script>
+</head>
+
+<body>
+    <div class="pageWrapper">
+        <div class="miniMusic"></div>
+        <h1>Music App.JB</h1>
+        <div class="music" id="music">
+            <div class="firstSect">
+                <p class="topHeadline">Good Old Days</p>
+                <img src="" alt="" class="albumImage">
+                <section style="text-align: center; font-size: 1.1rem; color: aliceblue;">
+                    <p class="musicianName">ChrisTomlin & JB_Baze</p>
+                    <p class="musicName">He lives for ever (Amen)</p>
+                </section>
+            </div>
+
+            <div class="sectSet-upper">
+
+                <section style="text-align: center; border: unseet;" class="sectionControl2">
+                    <p><input type="range" value="0" min="1" max="100" class="musicRange"></p>
+                    <p class="timerCont"><span class="starting">00:00</span>
+                        <span class="ending">00:00</span>
+                    </p>
+                    <p class="volumeCont">
+                        <span style="padding: 0 .3rem;"><i class="fas fa-volume-down"></i></span>
+                        <input type="range" min="1" max="100" value="99" class="volumee">
+
+                        <span style="padding: 0 .4rem;"><i class="fas fa-volume-up"></i></span>
+                    </p>
+                    <div class="iconsFav">
+                        <div>
+                            <p class="heartContain">
+                                <i class="fas fa-heart hearts listItems" id="heart"></i>
+                            </p>
+                            <p class="favText">Favorite</p>
+                        </div>
+                        <div>
+                            <p><i class="fas fa-list-alt list listItems" id="list"></i></p>
+                            <p class="favText">PlayList</p>
+                        </div>
+                    </div>
+                </section>
+                <div class="secSect">
+                    <span class="prev"><i class="fas fa-step-backward"></i></span>
+                    <span class="control"><i class="far fa-play-circle"></i></span>
+                    <span class="next"><i class="fas fa-step-forward"></i></span>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
