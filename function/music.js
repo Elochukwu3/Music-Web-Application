@@ -145,7 +145,7 @@ let kk =  playList.filter(m=>{
       return m.name === items.name;
    })
    let finder = playList.findIndex(k=>{
-      // return k.name === kk[0].name;
+      return k.name === kk[0].name;
    })
   loadTracks(finder)
       playMusic()
