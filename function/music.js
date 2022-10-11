@@ -175,9 +175,5 @@ let kk =  playList.filter(m=>{
       if (isPlaying === true) {
          positon = audioTrack.currentTime * (100 / audioTrack.duration);
          musicRange.value = positon;
-         audioTrack.currentTime = musicRange.value;
-        
-       
-         
-      }
+     
     })
