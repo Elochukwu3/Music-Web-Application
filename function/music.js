@@ -1,13 +1,13 @@
 import playList from "./playList.js";
 const playIconBtn = document.querySelector(".control")
-const artist = document.querySelector(".musicianName")
-const songName = document.querySelector(".musicName")
-const haederName = document.querySelector(".topHeadline")
-const songImage = document.querySelector(".albumImage")
-const musicRange = document.querySelector(".musicRange")
-const volumeBtn = document.querySelector(".volumee")
-const nextSong = document.querySelector(".next")
-const prevSong = document.querySelector(".prev")
+// const artist = document.querySelector(".musicianName")
+// const songName = document.querySelector(".musicName")
+// const haederName = document.querySelector(".topHeadline")
+// const songImage = document.querySelector(".albumImage")
+// const musicRange = document.querySelector(".musicRange")
+// const volumeBtn = document.querySelector(".volumee")
+// const nextSong = document.querySelector(".next")
+// const prevSong = document.querySelector(".prev")
 const startingTime = document.querySelector(".starting")
 const endingTime = document.querySelector(".ending");
 const listBtn = document.querySelectorAll(".listItems");
