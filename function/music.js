@@ -128,7 +128,7 @@ listBtn.forEach(d=>{
 
 
 function playRecent(music) {
-   music.forEach(e=>{
+   // music.forEach(e=>{
       e.addEventListener('click', ()=>{
      let image =  e.querySelector('.mini-image')
      let singer =  e.querySelector('.sing')
