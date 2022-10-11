@@ -141,7 +141,7 @@ function playRecent(music) {
          }
 let kk =  playList.filter(m=>{
       JSON.stringify(items)
-      JSON.stringify(m)
+      // JSON.stringify(m)
       return m.name === items.name;
    })
    let finder = playList.findIndex(k=>{
