@@ -3,7 +3,7 @@ const playIconBtn = document.querySelector(".control")
 const artist = document.querySelector(".musicianName")
 const songName = document.querySelector(".musicName")
 const haederName = document.querySelector(".topHeadline")
-// const songImage = document.querySelector(".albumImage")
+const songImage = document.querySelector(".albumImage")
 const musicRange = document.querySelector(".musicRange")
 const volumeBtn = document.querySelector(".volumee")
 const nextSong = document.querySelector(".next")
@@ -171,13 +171,13 @@ let kk =  playList.filter(m=>{
 
 
 
-//  musicRange.addEventListener("change", (e)=>{  
-//       if (isPlaying === true) {
-//          positon = audioTrack.currentTime * (100 / audioTrack.duration);
-//          musicRange.value = positon;
-//          audioTrack.currentTime = musicRange.value;
+ musicRange.addEventListener("change", (e)=>{  
+      if (isPlaying === true) {
+         positon = audioTrack.currentTime * (100 / audioTrack.duration);
+         musicRange.value = positon;
+         audioTrack.currentTime = musicRange.value;
         
        
          
-//       }
-//     })
+      }
+    })
