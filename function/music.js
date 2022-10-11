@@ -100,16 +100,16 @@ const miniMusic = document.querySelector('.miniMusic')
 const heart = document.querySelector('.list')
 heart.addEventListener("click", ()=>{
  const display = playList.map(m=>{
-   const {img, name, singer} = m;
-   return( `<div class="miniContainer">
-   <div class="mini-Inner">
-       <p><img src="${img}" alt="image" class="mini-image"></p>
-   <div>
-       <p style="color: #fff; font-size: 0.9rem;" class ='naam'>${name}</p>
-       <p style="color: grey; font-size: 0.7rem;" class ='sing'>${singer}</p>
-   </div>
-   </div>
-</div>` 
+//    const {img, name, singer} = m;
+//    return( `<div class="miniContainer">
+//    <div class="mini-Inner">
+//        <p><img src="${img}" alt="image" class="mini-image"></p>
+//    <div>
+//        <p style="color: #fff; font-size: 0.9rem;" class ='naam'>${name}</p>
+//        <p style="color: grey; font-size: 0.7rem;" class ='sing'>${singer}</p>
+//    </div>
+//    </div>
+// </div>` 
  ) 
    
 })
@@ -128,7 +128,7 @@ listBtn.forEach(d=>{
 
 
 function playRecent(music) {
-   // music.forEach(e=>{
+   music.forEach(e=>{
       e.addEventListener('click', ()=>{
      let image =  e.querySelector('.mini-image')
      let singer =  e.querySelector('.sing')
