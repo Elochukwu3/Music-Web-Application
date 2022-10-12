@@ -37,12 +37,12 @@ const playList = [
     img: "../musics/Burna boy - Twice as Tall/bsh.jpeg",
     song: "../musics/Burna boy - Twice as Tall/Black-Sherif-Kwaku-The-Traveller-(TrendyBeatz.com).mp3",
   },
-  {
-    name: "FOh Paradise",
-    singer: "Black Sherif",
-    img: "https://trendybeatz.com/images/Black-Sherif-The-Villain-I-Never-Was-AlbumArtwork1.jpg",
-    song: "https://cdn.trendybeatz.com/audio/Black-Sherif-Oh-Paradise-(TrendyBeatz.com).mp3",
-  },
+  // {
+  //   name: "FOh Paradise",
+  //   singer: "Black Sherif",
+  //   img: "https://trendybeatz.com/images/Black-Sherif-The-Villain-I-Never-Was-AlbumArtwork1.jpg",
+  //   song: "https://cdn.trendybeatz.com/audio/Black-Sherif-Oh-Paradise-(TrendyBeatz.com).mp3",
+  // },
   {
     name: "Different_Size",
     singer: "Burna_Boy_Ft_Victony",
@@ -54,13 +54,13 @@ const playList = [
     singer: "Burna-Boy ft-Chris-Martin",
     img: "../musics/Burna boy - Twice as Tall/twice.png",
     song: "../musics/Burna boy - Twice as Tall/Burna-Boy-Monsters-You-Made-ft-Chris-Martin-(JustNaija.com).mp3",
-  // },
-  // {
-  //   name: "It's Plenty",
-  //   singer: "Burna-Boy ft-Chris-Martin",
-  //   img: "../musics/Burna boy - Twice as Tall/plenty.jpg",
-  //   song: "../musics/Burna boy - Twice as Tall/it-plenty.mp3",
-  // },
+  },
+  {
+    name: "It's Plenty",
+    singer: "Burna-Boy ft-Chris-Martin",
+    img: "../musics/Burna boy - Twice as Tall/plenty.jpg",
+    song: "../musics/Burna boy - Twice as Tall/it-plenty.mp3",
+  },
   {
     name: "Ye",
     singer: "Burna-Boy",
