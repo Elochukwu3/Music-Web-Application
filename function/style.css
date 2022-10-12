@@ -135,14 +135,11 @@ h1 {
 }
 .musicRange {
   width: 90%;
-  -webkit-appearance: none;
+  /* -webkit-appearance: none; */
   background: goldenrod;
   border-radius: 10px 10px 10px 10px;
-  /* height: 2rem; */
 }
 .musicRange::-webkit-slider-thumb {
-  /* -webkit-appearance: none;
-  background-color: red; */
   width: 5%;
   padding: 0.7rem;
   height: 100%;
