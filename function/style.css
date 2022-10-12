@@ -7,7 +7,7 @@
   box-sizing: border-box;
 }
 
-/* :root {
+:root {
   --font-roboto: "Roboto Slab", serif;
   --font-raleway: "Raleway", sans-serif;
 }
@@ -19,7 +19,7 @@ body {
 
 body::-webkit-scrollbar {
   display: none;
-} */
+}
 
 .pageWrapper {
   font-family: var(--font-roboto);
