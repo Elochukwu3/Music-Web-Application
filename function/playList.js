@@ -25,24 +25,24 @@ const playList = [
     song: "https://cdn3.justnaija.me/uploads/music/2022/09/Asake-Joha-(JustNaija.com).mp3",
   },
 
-  {
-    name: "Twice as Tall",
-    singer: "Burna-Boy",
-    img: "../musics/Burna boy - Twice as Tall/twice.png",
-    song: "../musics/Burna boy - Twice as Tall/twice.mp3",
-  },
+  // {
+  //   name: "Twice as Tall",
+  //   singer: "Burna-Boy",
+  //   img: "../musics/Burna boy - Twice as Tall/twice.png",
+  //   song: "../musics/Burna boy - Twice as Tall/twice.mp3",
+  // },
   {
     name: "Kwaku-The-Traveller",
     singer: "Black-Sherif",
     img: "../musics/Burna boy - Twice as Tall/bsh.jpeg",
     song: "../musics/Burna boy - Twice as Tall/Black-Sherif-Kwaku-The-Traveller-(TrendyBeatz.com).mp3",
-  // },
-  // {
-  //   name: "FOh Paradise",
-  //   singer: "Black Sherif",
-  //   img: "https://trendybeatz.com/images/Black-Sherif-The-Villain-I-Never-Was-AlbumArtwork1.jpg",
-  //   song: "https://cdn.trendybeatz.com/audio/Black-Sherif-Oh-Paradise-(TrendyBeatz.com).mp3",
-  // },
+  },
+  {
+    name: "FOh Paradise",
+    singer: "Black Sherif",
+    img: "https://trendybeatz.com/images/Black-Sherif-The-Villain-I-Never-Was-AlbumArtwork1.jpg",
+    song: "https://cdn.trendybeatz.com/audio/Black-Sherif-Oh-Paradise-(TrendyBeatz.com).mp3",
+  },
   {
     name: "Different_Size",
     singer: "Burna_Boy_Ft_Victony",
