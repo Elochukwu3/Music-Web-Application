@@ -154,8 +154,8 @@ h1 {
 }
 .volumee {
   width: 60%;
-  -webkit-appearance: none;
-  background: goldenrod;
+  /* -webkit-appearance: none; */
+  /* background: goldenrod !important; */
   height: 0.5rem;
 }
 
