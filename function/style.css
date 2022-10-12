@@ -233,7 +233,7 @@ color: red !important;
     height: 60%;
     opacity: 0.8;
   }
-  .sectionControl2 .volumeCont {
+  /* .sectionControl2 .volumeCont {
    display: none;
   }
   .musicRange {
@@ -251,7 +251,7 @@ color: red !important;
   height: 2.5rem;
   }
 }
-.miniMusic{
+.miniMusic{ */
   display: flex;
   width: 90vw;
   overflow-x: auto;
