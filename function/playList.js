@@ -162,25 +162,25 @@ const playList = [
     song: "../musics/remain/Era_-_Ameno_Soloplay.ng.mp3",
   },
   
-  {
-    name: "Pour_Me_Water",
-    singer: "Kizz Daniel",
-    img: "../musics/remain/kizz.jpg",
-    song: "../musics/remain/Kizz_Daniel_Pour_Me_Water.mp3",
-  },
+  // {
+  //   name: "Pour_Me_Water",
+  //   singer: "Kizz Daniel",
+  //   img: "../musics/remain/kizz.jpg",
+  //   song: "../musics/remain/Kizz_Daniel_Pour_Me_Water.mp3",
+  // },
 
   {
     name: "Ku-Lo-Sa",
     singer: "Oxlade",
     img: "../musics/remain/img14.webp",
-  //   song: "../musics/remain/Oxlade-Ku-Lo-Sa-(TrendyBeatz.com).mp3",
-  // },
-  // {
-  //   name: "Hold_Me",
-  //   singer: "Zinoleesky_ft_Lyta",
-  //   img: "../musics/remain/zino.jpg",
-  //   song: "../musics/remain/nc-Zinoleesky_ft_Lyta_-_Hold_Me_mp3_.mp3",
-  // },
+    song: "../musics/remain/Oxlade-Ku-Lo-Sa-(TrendyBeatz.com).mp3",
+  },
+  {
+    name: "Hold_Me",
+    singer: "Zinoleesky_ft_Lyta",
+    img: "../musics/remain/zino.jpg",
+    song: "../musics/remain/nc-Zinoleesky_ft_Lyta_-_Hold_Me_mp3_.mp3",
+  },
  
  
   {
