@@ -36,19 +36,19 @@ const playList = [
     singer: "Black-Sherif",
     img: "../musics/Burna boy - Twice as Tall/bsh.jpeg",
     song: "../musics/Burna boy - Twice as Tall/Black-Sherif-Kwaku-The-Traveller-(TrendyBeatz.com).mp3",
-  },
-  {
-    name: "FOh Paradise",
-    singer: "Black Sherif",
-    img: "https://trendybeatz.com/images/Black-Sherif-The-Villain-I-Never-Was-AlbumArtwork1.jpg",
-    song: "https://cdn.trendybeatz.com/audio/Black-Sherif-Oh-Paradise-(TrendyBeatz.com).mp3",
-  },
-  // {
-  //   name: "Different_Size",
-  //   singer: "Burna_Boy_Ft_Victony",
-  //   img: "../musics/Burna boy - Twice as Tall/burnaa.jpeg",
-  //   song: "../musics/Burna boy - Twice as Tall/Burna_Boy_Ft_Victony_-_Different_Size.mp3",
   // },
+  // {
+  //   name: "FOh Paradise",
+  //   singer: "Black Sherif",
+  //   img: "https://trendybeatz.com/images/Black-Sherif-The-Villain-I-Never-Was-AlbumArtwork1.jpg",
+  //   song: "https://cdn.trendybeatz.com/audio/Black-Sherif-Oh-Paradise-(TrendyBeatz.com).mp3",
+  // },
+  {
+    name: "Different_Size",
+    singer: "Burna_Boy_Ft_Victony",
+    img: "../musics/Burna boy - Twice as Tall/burnaa.jpeg",
+    song: "../musics/Burna boy - Twice as Tall/Burna_Boy_Ft_Victony_-_Different_Size.mp3",
+  },
   {
     name: "You-Made",
     singer: "Burna-Boy ft-Chris-Martin",
