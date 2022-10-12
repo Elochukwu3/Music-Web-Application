@@ -55,12 +55,12 @@ const playList = [
     img: "../musics/Burna boy - Twice as Tall/twice.png",
     song: "../musics/Burna boy - Twice as Tall/Burna-Boy-Monsters-You-Made-ft-Chris-Martin-(JustNaija.com).mp3",
   },
-  {
-    name: "It's Plenty",
-    singer: "Burna-Boy ft-Chris-Martin",
-    img: "../musics/Burna boy - Twice as Tall/plenty.jpg",
-    song: "../musics/Burna boy - Twice as Tall/it-plenty.mp3",
-  },
+  // {
+  //   name: "It's Plenty",
+  //   singer: "Burna-Boy ft-Chris-Martin",
+  //   img: "../musics/Burna boy - Twice as Tall/plenty.jpg",
+  //   song: "../musics/Burna boy - Twice as Tall/it-plenty.mp3",
+  // },
   {
     name: "Ye",
     singer: "Burna-Boy",
@@ -162,12 +162,12 @@ const playList = [
     song: "../musics/remain/Era_-_Ameno_Soloplay.ng.mp3",
   },
   
-  // {
-  //   name: "Pour_Me_Water",
-  //   singer: "Kizz Daniel",
-  //   img: "../musics/remain/kizz.jpg",
-  //   song: "../musics/remain/Kizz_Daniel_Pour_Me_Water.mp3",
-  // },
+  {
+    name: "Pour_Me_Water",
+    singer: "Kizz Daniel",
+    img: "../musics/remain/kizz.jpg",
+    song: "../musics/remain/Kizz_Daniel_Pour_Me_Water.mp3",
+  },
 
   {
     name: "Ku-Lo-Sa",
