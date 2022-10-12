@@ -5,18 +5,18 @@ const playList = [
     img: "https://i0.wp.com/justnaija.com/uploads/2022/09/Ayra-Starr-Rush-artwork.png?ulb=false&ssl=1&resize=320,350",
     song: "https://cdn3.justnaija.me/uploads/music/2022/09/Ayra-Starr-Rush-(JustNaija.com).mp3",
   },
-  {
-    name: "Last Last",
-    singer: "Burna Boy",
-    img: "../musics/burna boy-last/last.jpg",
-    song: "../musics/burna boy-last/Burna_Boy_-_Last_Last_@BaseNaija.com (1).mp3",
-  },
-  {
-    name: "Ego",
-    singer: "Ida Banton ft Davido",
-    img: "https://i0.wp.com/justnaija.com/uploads/2022/10/1da-Banton-Ego-artwork.jpeg?ulb=false&ssl=1&resize=320,350",
-    song: "https://cdn3.justnaija.me/uploads/music/2022/10/1da-Banton-Davido-Ego-(JustNaija.com).mp3",
-  },
+  // {
+  //   name: "Last Last",
+  //   singer: "Burna Boy",
+  //   img: "../musics/burna boy-last/last.jpg",
+  //   song: "../musics/burna boy-last/Burna_Boy_-_Last_Last_@BaseNaija.com (1).mp3",
+  // },
+  // {
+  //   name: "Ego",
+  //   singer: "Ida Banton ft Davido",
+  //   img: "https://i0.wp.com/justnaija.com/uploads/2022/10/1da-Banton-Ego-artwork.jpeg?ulb=false&ssl=1&resize=320,350",
+  //   song: "https://cdn3.justnaija.me/uploads/music/2022/10/1da-Banton-Davido-Ego-(JustNaija.com).mp3",
+  // },
 
   {
     name: "Joha",
@@ -25,12 +25,12 @@ const playList = [
     song: "https://cdn3.justnaija.me/uploads/music/2022/09/Asake-Joha-(JustNaija.com).mp3",
   },
 
-  // {
-  //   name: "Twice as Tall",
-  //   singer: "Burna-Boy",
-  //   img: "../musics/Burna boy - Twice as Tall/twice.png",
-  //   song: "../musics/Burna boy - Twice as Tall/twice.mp3",
-  // },
+  {
+    name: "Twice as Tall",
+    singer: "Burna-Boy",
+    img: "../musics/Burna boy - Twice as Tall/twice.png",
+    song: "../musics/Burna boy - Twice as Tall/twice.mp3",
+  },
   {
     name: "Kwaku-The-Traveller",
     singer: "Black-Sherif",
@@ -91,7 +91,7 @@ const playList = [
     img: "../musics/juice/juice.jpeg",
     song: "../musics/juice/[Waploaded_4981]Juice_WRLD_Ft_Kodak_Black_-_Hide.mp3",
   },
-  
+
   {
     name: "Terminator",
     singer: "ASake",
@@ -128,14 +128,14 @@ const playList = [
     img: "../musics/ckay,cater,cq/imgg.webp",
     song: "../musics/ckay,cater,cq/Berri-Tiga-Ft-Carter-Efe-Machala-(TrendyBeatz.com).mp3",
   },
-  
+
   {
     name: "Adulthood Na Scam",
     singer: "Lade",
     img: "../musics/ckay,cater,cq/img5.jpeg",
     song: "../musics/ckay,cater,cq/Lade-Adulthood-Na-Scam-1-(TrendyBeatz.com).mp3",
   },
- 
+
   {
     name: "Flowers (Say My Name)",
     singer: "ArrDee",
@@ -161,7 +161,7 @@ const playList = [
     img: "../musics/remain/ameno.jpg",
     song: "../musics/remain/Era_-_Ameno_Soloplay.ng.mp3",
   },
-  
+
   {
     name: "Pour_Me_Water",
     singer: "Kizz Daniel",
@@ -181,8 +181,7 @@ const playList = [
     img: "../musics/remain/zino.jpg",
     song: "../musics/remain/nc-Zinoleesky_ft_Lyta_-_Hold_Me_mp3_.mp3",
   },
- 
- 
+
   {
     name: "Bad To Me",
     singer: "Wizkid",
