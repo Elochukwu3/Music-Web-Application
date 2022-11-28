@@ -1,11 +1,5 @@
 const playList = [
   {
-    name: "Rush",
-    singer: "Ayra Star",
-    img: "https://i0.wp.com/justnaija.com/uploads/2022/09/Ayra-Starr-Rush-artwork.png?ulb=false&ssl=1&resize=320,350",
-    song: "https://cdn3.justnaija.me/uploads/music/2022/09/Ayra-Starr-Rush-(JustNaija.com).mp3",
-  },
-  {
     name: "Last Last",
     singer: "Burna Boy",
     img: "../musics/burna boy-last/last.jpg",
